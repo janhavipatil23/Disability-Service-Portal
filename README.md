@@ -1,6 +1,10 @@
 # Disability-Service-Portal
 
-Some snippets of Project Work 
+1. Developed a JAVA Service Application for providing services to people with disability where they can sign up and order Hospital Services at home, Daily Wellness Checks, Finances Management with an advisor, Food and Grocery Ordering
+2. Supported each service with its own CRUD (Create, Read, Update, Delete) operations with responses stored in a database (mySQL) for admin for individual services where they could accept and assign or reject the order
+
+
+Some Snippets of Project Work 
 
 <img width="1431" alt="Screen Shot 2022-02-24 at 9 35 22 AM" src="https://user-images.githubusercontent.com/91064646/155545857-bc6e9667-868f-4763-bf64-88ab059faceb.png">
 <img width="1440" alt="Screen Shot 2022-02-24 at 9 37 49 AM" src="https://user-images.githubusercontent.com/91064646/155545868-31907ee4-5438-4bb3-870f-06e873166f7c.png">
